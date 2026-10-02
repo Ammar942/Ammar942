@@ -86,7 +86,7 @@ I'm **Ammar Atef**, a full-stack developer from **Cairo, Egypt** with **2+ years
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammar942&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/38BDF8/Ammar942" alt="Contribution graph" />
 </p>
 
 ---
