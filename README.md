@@ -33,6 +33,14 @@ I'm **Ammar Atef**, a full-stack developer from **Cairo, Egypt** with **2+ years
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,vue,tailwind,redux,html,css&perline=10" alt="Frontend" />
   </a>
@@ -43,7 +51,6 @@ I'm **Ammar Atef**, a full-stack developer from **Cairo, Egypt** with **2+ years
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
@@ -59,7 +66,7 @@ I'm **Ammar Atef**, a full-stack developer from **Cairo, Egypt** with **2+ years
 | Project | What I built | Stack |
 |---|---|---|
 | 🏢 **[Majestic — Real-Estate Platform](https://majestic.com.im)** | Live sales & rental platform for a tower and mall: 8-role access control, live unit status, installment plans, cheque tracking, automated WhatsApp reminders, Arabic contract editor. Built end to end. | React · TypeScript · Node.js · Express · MongoDB · Socket.IO |
-| 🚚 **Fleet & Delivery Operations Platform** | Operations dashboard for a Riyadh delivery company: 30+ screens, map editor for 1,400+ delivery zones, full Arabic/English RTL, plus a React Native companion app. Sole front-end developer. | React · TypeScript · Leaflet · TanStack Query · shadcn/ui |
+| 🚚 **Fleet & Delivery Operations Platform** | Operations dashboard for a Riyadh delivery company: 30+ screens, map editor for 1,400+ delivery zones, full Arabic/English RTL, plus a React Native companion app. Sole front-end developer. | React · React Native · TypeScript · Leaflet · TanStack Query · shadcn/ui |
 | 🧾 **Multi-tenant POS & Invoicing SaaS** | Multi-branch POS: fast selling, bills & returns, inventory, reports and a super-admin panel; web + mobile from one codebase. | React · TypeScript · Node.js · MongoDB · Capacitor |
 | 🌐 **[OnField — Corporate Website](https://onfield.ca)** | Fast corporate site with light/dark themes, a hand-built interactive SVG map and a quote-request form. | Next.js · React · CSS Modules |
 
