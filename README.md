@@ -82,7 +82,7 @@ I'm **Ammar Atef**, a full-stack developer from **Cairo, Egypt** with **2+ years
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ammar942&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Ammar942&theme=tokyonight&hide_border=true&timezone=Africa/Cairo" alt="GitHub streak" />
 </p>
 
 <p align="center">
