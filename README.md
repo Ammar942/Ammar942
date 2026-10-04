@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/ammar-atef/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://ammaratef919.getportify.com/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
   <a href="mailto:ammaratef919@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ammar942&style=for-the-badge&color=0ea5e9&label=Profile+views" alt="Profile views" />
+  <img src="https://hits.sh/github.com/Ammar942.svg?style=for-the-badge&label=Profile%20views&color=0ea5e9" alt="Profile views" />
 </p>
 
 ---
